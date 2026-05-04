@@ -1,0 +1,10 @@
+.*/
+
+bin/
+obj/
+
+*.py
+*.mp4
+*.user
+
+Assembly-CSharp
